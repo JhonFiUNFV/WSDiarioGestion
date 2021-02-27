@@ -57,7 +57,7 @@ parrafo_raw
 type(parrafo_raw)
 parrafo_str = str(parrafo_raw)
 type(parrafo_str)
-parrafo = parrafo_str[99:]
+parrafo = parrafo_str[120:]
 parrafo
 #nota, en este caso vale para impares
 
