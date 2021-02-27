@@ -57,7 +57,7 @@ parrafo_raw
 type(parrafo_raw)
 parrafo_str = str(parrafo_raw)
 type(parrafo_str)
-parrafo = parrafo_str[120:]
+parrafo = parrafo_str[122:]
 parrafo
 #nota, en este caso vale para impares
 
@@ -70,7 +70,7 @@ for x in range (1,50):
     type(parrafo_raw)
     parrafo_str = str(parrafo_raw)
     type(parrafo_str)
-    parrafo= parrafo_str[99:-4]
+    parrafo= parrafo_str[122:-4]
     
     noticias.append(parrafo)
     
