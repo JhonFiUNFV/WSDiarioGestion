@@ -9,7 +9,7 @@ This is a temporary script file.
 #EJEMPLO 1: Importar una página en bruto
 #Ej. Diario Gestión
 
-clear
+
 %reset -f
 from bs4 import BeautifulSoup
 import requests
